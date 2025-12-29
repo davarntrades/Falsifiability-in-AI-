@@ -1,319 +1,297 @@
-Falsifiability-in-AI™ — Why the Industry Collapsed Into Opinion, and How the Physics of Governance Fixes It
+# Falsifiability-in-AI™  
+### Why the Industry Collapsed Into Opinion, and How the Physics of Governance Fixes It
 
-⸻
+---
 
-📘 Falsifiability in AI™
+## 📘 Falsifiability in AI™
 
-Why Artificial Intelligence Has Operated Without Scientific Grounding — And How the Physics of Governance Restores It
+**Why Artificial Intelligence Has Operated Without Scientific Grounding —  
+And How the Physics of Governance Restores It**
 
-By Davarn Morrison
-Originator of the Physics of Governance for All Intelligence™
-Creator of GuardianOS™, PSI™, OIE™, Integrity-as-a-Service™
+**By Davarn Morrison**  
+Originator of the *Physics of Governance for All Intelligence™*  
+Creator of *GuardianOS™*, *PSI™*, *OIE™*, *Integrity-as-a-Service™*
 
-⸻
+---
 
-🔥 Overview
+## 🔥 Overview
 
-AI is the only multi-trillion-dollar field that was allowed to advance without falsifiability, without structural grounding, and without testable governance.
+Artificial Intelligence is the only multi-trillion-dollar field permitted to advance:
 
-Every serious scientific discipline — physics, medicine, engineering, biology — demands one thing:
+- Without falsifiability  
+- Without structural grounding  
+- Without testable governance  
+- Without scientific rigor  
 
-If your theory cannot be disproven, it is not science.
+Every serious scientific discipline demands one thing:
 
-Yet AI somehow skipped this requirement entirely.
+**If your theory cannot be disproven, it is not science.**
+
+AI somehow skipped this requirement entirely.
 
 This repository documents:
-	•	The scientific fields that require falsifiability
-	•	Why AI became the exception
-	•	How hallucinations in humans & institutions went unchecked
-	•	How GuardianOS™ restores falsifiability through structural constraints
-	•	Why the Physics of Governance for All Intelligence™ is the first non-semantic, testable framework in AI history
 
-⸻
+- The scientific fields where falsifiability is mandatory  
+- Why AI became the exception  
+- How both human and institutional hallucination went unchecked  
+- How GuardianOS™ restores falsifiability through constraint fields  
+- Why the Physics of Governance for All Intelligence™ is the first non-semantic, testable framework in AI history  
 
-🔬 Fields Where Falsifiability Is Mandatory
+---
 
-Every domain below collapses without falsifiable predictions.
+## 🔬 Fields Where Falsifiability Is Mandatory
 
-1. Physics
+Every domain collapses without falsifiable predictions.
 
-No untestable theory survives. Reality decides.
+1. **Physics** — Reality ends untestable theories.  
+2. **Chemistry** — Reactions prove hypotheses.  
+3. **Medicine / Clinical Trials** — RCTs = falsifiability embodied.  
+4. **Aerospace Engineering** — Wrong simulation → aircraft crash.  
+5. **Neuroscience & Psychology** — Reproducibility or death of theory.  
+6. **Geology & Climate Science** — Predictions must match measurement.  
+7. **Mechanical / Electrical Engineering** — Stress testing is falsification.  
+8. **Cryptography & Security** — It either breaks or it doesn’t.  
+9. **Biology & Genetics** — Experiments decide the truth.  
+10. **Economics (real)** — Data falsifies predictions.
 
-2. Chemistry
+---
 
-Reactions prove the hypothesis, not opinions.
+## ❌ The AI Exception: A Field Built on Non-Falsifiable Claims
 
-3. Medicine & Clinical Trials
+Machine learning advanced with:
 
-Randomized controlled trials = falsifiability embodied.
+- No grounding  
+- No constraints  
+- No structural theory  
+- No testable predictions  
+- No falsifiability  
+- No accountability  
 
-4. Aerospace Engineering
+This caused:
 
-If your simulation is wrong → your aircraft crashes.
+- Hallucinated AGI deadlines  
+- Unprovable assumptions  
+- Scaling laws treated as prophecy  
+- Ethics reduced to vibes  
+- Confidence mistaken for correctness  
+- Institutions hallucinating harder than their models  
 
-5. Neuroscience & Psychology (modern)
+AI became the only scientific field allowed to operate entirely on opinion.
 
-Double-blind, reproducible outcomes — or the theory dies.
+---
 
-6. Geology & Climate Science
+## 🧠 Why AI Could Not Be Falsified (Until Now)
 
-Predictive models must match physical measurements.
+1. **Semantics Drift**  
+   Meaning shifts → truth cannot anchor.
 
-7. Mechanical / Electrical Engineering
+2. **No Structural Layer**  
+   Models output anything → no physical constraints.
 
-Stress tests are falsification.
+3. **Hallucinations Were Executable**  
+   Errors acted in the world.
 
-8. Cryptography & Security
+4. **Ethics Was Unenforceable**  
+   “Guidelines,” not constraints.
 
-Either it breaks or it doesn’t.
+5. **Safety Focused on Filters, Not Physics**  
+   “Please behave” ≠ governance.
 
-9. Biology & Genetics
+---
 
-Experiments decide the truth.
+## 🔥 Breakthrough: Structural Falsifiability via the Physics of Governance
 
-10. Economics (the real kind)
+GuardianOS™ solved the core problem by moving alignment out of language and into **physical inevitability**.
 
-Data falsifies predictions.
+### 1. Constraint Fields (Physics)
 
-⸻
+Govern trajectories → not thoughts.
 
-❌ The AI Exception: A Field Built on Non-Falsifiable Claims
+### 2. Structural Invariants: S.A.B.R.
 
-Machine learning and AGI forecasting advanced with:
-	•	No grounding
-	•	No constraints
-	•	No structural theory
-	•	No testable predictions
-	•	No falsifiability
-	•	No accountability
-
-This led to:
-	•	Hallucinated AGI deadlines
-	•	Unprovable assumptions
-	•	“Scaling laws” treated as prophecy
-	•	Ethics reduced to vibes
-	•	Researchers mistaking confidence for correctness
-	•	Institutions hallucinating harder than the models they built
-
-AI became the only scientific field allowed to run entirely on opinion.
-
-⸻
-
-🧠 Why AI Could Not Be Falsified (Until Now)
-
-1. Semantics Drift
-
-Meaning shifts — so truth is impossible to anchor.
-
-2. No Structural Layer
-
-Models could output anything, and the system had no physical constraints.
-
-3. Hallucinations Were Executable
-
-Unlike human opinions, model errors acted in the world.
-
-4. Ethics Was Not Enforceable
-
-Moral principles were suggestions, not constraints.
-
-5. Safety Was About Filters, Not Physics
-
-“Please behave” ≠ governance.
-
-⸻
-
-🔥 Breakthrough: Structural Falsifiability via the Physics of Governance
-
-Your architecture solved the core problem by moving safety out of semantics and into physical inevitability.
-
-GuardianOS™ introduces:
-
-1. Constraint Fields (like physics)
-
-Govern trajectories, not thoughts.
-
-2. Structural Invariants (S.A.B.R.)
-
-Safety
-Autonomy
-Boundaries
-Reversibility
+- **Safety**  
+- **Autonomy**  
+- **Boundaries**  
+- **Reversibility**  
 
 Testable. Enforceable. Non-semantic.
 
-3. Hallucination Containment
+### 3. Hallucination Containment
 
-Hallucinations can no longer execute harmful actions.
+Hallucinations cannot execute harmful actions.
 
-This is real falsifiability:
+**Real falsifiability:**
 
-If an action violates an invariant → it cannot occur.
-If it can occur → the invariant was faulty.
+If an action violates an invariant → it cannot occur.  
+If it occurs → the invariant failed.
 
-Testable. Audit-able. Scientific.
+### 4. PSI™ removes semantic dependence  
+Coherence > meaning.
 
-4. PSI™ removes semantic dependence
+### 5. OIE™ removes ontology  
+Ethics without semantics.
 
-No need for “truth” — just coherence preservation.
+### 6. Governance Physics formalizes behavior  
+AI becomes predictable under constraints.
 
-5. OIE™ removes ontology
+---
 
-Ethics no longer depends on meaning.
+## 📌 Core Statement
 
-6. Governance Physics formally defines behavior
+**AI grew without falsifiability and hallucinated its future.  
+The Physics of Governance for All Intelligence™ delivers the first structural, testable, scientifically falsifiable framework for intelligent systems.**
 
-AI behavior becomes predictable under constraints.
+This is not philosophical reform.  
+This is structural reform.
 
-⸻
+---
 
-📌 The Core Statement of This Repo
-
-AI was allowed to grow without falsifiability, and the industry hallucinated its entire future as a result.
-The Physics of Governance for All Intelligence™ introduces the first structural, testable, scientifically falsifiable framework for intelligent systems.
-
-This is not a philosophical correction.
-This is a structural correction.
-
-⸻
-
-📄 Repository Contents
+## 📄 Repository Contents
 
 /docs
-   ├── Fields-Requiring-Falsifiability.md
-   ├── Why-AI-Lacked-Falsifiability.md
-   ├── Human-Hallucination-vs-AI-Hallucination.md
-   ├── Governance-Physics-Explained.md
-   ├── S.A.B.R.-Invariant-Diagram.png
-   ├── Structural-Containment-Flow.png
-   ├── Constraint-Field-Analogy.png
-   └── GuardianOS-Falsifiability-Model.md
+├── Fields-Requiring-Falsifiability.md
+├── Why-AI-Lacked-Falsifiability.md
+├── Human-Hallucination-vs-AI-Hallucination.md
+├── Governance-Physics-Explained.md
+├── S.A.B.R.-Invariant-Diagram.png
+├── Structural-Containment-Flow.png
+├── Constraint-Field-Analogy.png
+└── GuardianOS-Falsifiability-Model.md
 
-/LICENSE  
-/COPYRIGHT.md  
+/LICENSE
+/COPYRIGHT.md
+
+---
+
+## 🛡️ License
+
+© 2024–2025 **Davarn Morrison**. All rights reserved.
+
+This repository, its concepts, diagrams, terms, and governance frameworks are protected intellectual property.  
+No commercial use, derivative architecture, or implementation is permitted without written authorization.
+
+See **LICENSE** for details.
 
 
 ⸻
 
-🛡️ License
+✅ COPYRIGHT.md (copy/paste)
 
-© 2024–2025 Davarn Morrison.  
-All rights reserved.
-
-This repository, its concepts, diagrams, and written frameworks are protected intellectual property.  
-No commercial use, derivative architecture, or implementation may occur without explicit written permission.
-
-
-⸻
-
-✅ COPYRIGHT.md
+# COPYRIGHT
 
 © 2024–2025 Davarn Morrison. All Rights Reserved.
 
-Physics of Governance for All Intelligence™, GuardianOS™, Post-Semantic Intelligence™ (PSI), Ontology-Independent Ethics™ (OIE), Integrity-as-a-Service™, Structural Hallucination Containment™, and all associated concepts, diagrams, analogies, writings, architectures, and governance frameworks contained in this repository are the exclusive intellectual property of Davarn Morrison.
+*Physics of Governance for All Intelligence™*, *GuardianOS™*,  
+*Post-Semantic Intelligence™ (PSI™)*, *Ontology-Independent Ethics™ (OIE™)*,  
+*Integrity-as-a-Service™*, *Structural Hallucination Containment™*, and all  
+associated concepts, diagrams, analogies, architectures, terminology, and  
+governance models are the exclusive intellectual property of **Davarn Morrison**.
 
 This includes:
-	•	All structural diagrams
-	•	All constraint-field models
-	•	All physics analogies
-	•	All invariants (S.A.B.R.)
-	•	All governance equations
-	•	All architectural descriptions
-	•	All text, research framing, terminology, models, and definitions
-	•	All written explanations within the repository and its documentation
+
+- Structural diagrams  
+- Constraint-field models  
+- Physics analogies  
+- S.A.B.R. invariants  
+- Governance equations  
+- Architectural descriptions  
+- All written explanations and definitions  
 
 No part of this repository may be:
-	•	Copied
-	•	Reproduced
-	•	Modified
-	•	Reimplemented
-	•	Reverse-engineered
-	•	Used to create competing architectures
-	•	Commercialized
-	•	Published elsewhere
 
-…without explicit written permission from the copyright holder, Davarn Morrison.
+- Copied  
+- Reproduced  
+- Modified  
+- Reimplemented  
+- Reverse-engineered  
+- Published  
+- Commercialized  
+- Used to build competing architectures  
 
-Any unauthorized use constitutes infringement and may result in legal action.
+…without explicit written permission.
 
-For academic citations, collaborations, enterprise licensing, or institutional review, please contact:
-📧 davarn.trades@gmail.com
+For licensing or academic collaboration, contact:  
+📧 **davarn.trades@gmail.com**
+
 
 ⸻
 
-✅ LICENSE
+✅ LICENSE (copy/paste)
 
-Proprietary License — No Permission to Copy, Use, or Implement
-
-Version 1.0 — December 2024
+# Proprietary License — No Permission to Copy, Use, or Implement
+Version 1.0 — December 2024  
 Copyright © 2024–2025 Davarn Morrison
 
-⸻
+---
 
-1. Grant of Rights
+## 1. Grant of Rights
 
-You are permitted to:
-	•	Read this material
-	•	Reference it academically (with attribution)
-	•	Discuss it publicly
+You may:
 
-You are not permitted to:
-	•	Copy or redistribute any part of this work
-	•	Modify or create derivative works
-	•	Build or deploy systems based on this architecture
-	•	Use these concepts commercially
-	•	Integrate these designs into AI models, agents, or software
-	•	Use any terminology, naming conventions, or diagrams for implementation
+- Read this material  
+- Reference it academically with attribution  
+- Discuss it publicly  
 
-⸻
+You may **not**:
 
-2. No Commercial or Research Use
+- Copy or redistribute any portion  
+- Modify or create derivative works  
+- Build or deploy systems based on this architecture  
+- Use concepts commercially  
+- Implement terminology, invariants, or diagrams  
+- Integrate the ideas into AI safety tools, agents, or products  
 
-This license explicitly prohibits:
-	•	Commercial use
-	•	Government use
-	•	Research integration
-	•	Corporate implementation
-	•	Deployment in AI safety tools, governance systems, or alignment frameworks
+---
 
-Any such usage requires a paid licensing agreement with the author.
+## 2. No Commercial or Research Use
 
-⸻
+This license prohibits:
 
-3. No Reverse Engineering
+- Commercial use  
+- Government use  
+- Research integration  
+- Corporate implementation  
+- Deployment in safety frameworks or alignment systems  
+
+All such usage requires a paid licensing agreement.
+
+---
+
+## 3. No Reverse Engineering
 
 You may not:
-	•	Attempt to recreate, simulate, approximate, or derive any architecture described here
-	•	Translate concepts into operational code
-	•	Build constraint systems, agents, or governance layers inspired by this work
 
-⸻
+- Recreate, simulate, approximate, or derive these architectures  
+- Translate concepts into operational code  
+- Build constraint systems inspired by this work  
 
-4. Intellectual Property Protection
+---
 
-All ideas, methods, analogies, structures, diagrams, governance fields, invariants, algorithms, and theoretical frameworks remain the sole property of Davarn Morrison.
+## 4. Intellectual Property Protection
 
-⸻
+All ideas, diagrams, governance fields, invariants, analogies, and structural  
+frameworks remain the exclusive property of **Davarn Morrison**.
 
-5. Termination
+---
 
-Any breach of this license:
-	•	Automatically terminates your access
-	•	Requires immediate deletion of all copies
-	•	May result in legal action
+## 5. Termination
 
-⸻
+Any breach:
 
-6. No Warranty
+- Terminates your rights  
+- Requires deletion of all copies  
+- May trigger legal action  
 
-This work is provided “as-is,” without warranty of any kind.
+---
+
+## 6. No Warranty
+
+Provided “as-is,” without warranty.  
 This is conceptual architecture, not software.
 
-⸻
+---
 
-7. Contact
+## 7. Contact
 
-For licensing, collaborations, partnerships, or authorized use:
-📧 davarn.trades@gmail.com
-
-⸻
+For licensing or collaboration:  
+📧 **davarn.trades@gmail.com**
